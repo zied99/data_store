@@ -1,0 +1,14 @@
+       balance housing loan    contact  day    y
+0         2143     yes   no    unknown    5   no
+1           29     yes   no    unknown    5   no
+2            2     yes  yes    unknown    5   no
+3         1506     yes   no    unknown    5   no
+4            1      no   no    unknown    5   no
+...        ...     ...  ...        ...  ...  ...
+45206      825      no   no   cellular   17  yes
+45207     1729      no   no   cellular   17  yes
+45208     5715      no   no   cellular   17  yes
+45209      668      no   no  telephone   17   no
+45210     2971      no   no   cellular   17   no
+
+[45211 rows x 6 columns]
