@@ -1,0 +1,14 @@
+      month  duration  campaign  pdays  previous poutcome    y
+0       may       261         1     -1         0  unknown   no
+1       may       151         1     -1         0  unknown   no
+2       may        76         1     -1         0  unknown   no
+3       may        92         1     -1         0  unknown   no
+4       may       198         1     -1         0  unknown   no
+...     ...       ...       ...    ...       ...      ...  ...
+45206   nov       977         3     -1         0  unknown  yes
+45207   nov       456         2     -1         0  unknown  yes
+45208   nov      1127         5    184         3  success  yes
+45209   nov       508         4     -1         0  unknown   no
+45210   nov       361         2    188        11    other   no
+
+[45211 rows x 7 columns]
