@@ -1,0 +1,14 @@
+       age           job   marital  education default    y
+0       58    management   married   tertiary      no   no
+1       44    technician    single  secondary      no   no
+2       33  entrepreneur   married  secondary      no   no
+3       47   blue-collar   married    unknown      no   no
+4       33       unknown    single    unknown      no   no
+...    ...           ...       ...        ...     ...  ...
+45206   51    technician   married   tertiary      no  yes
+45207   71       retired  divorced    primary      no  yes
+45208   72       retired   married  secondary      no  yes
+45209   57   blue-collar   married  secondary      no   no
+45210   37  entrepreneur   married  secondary      no   no
+
+[45211 rows x 6 columns]
